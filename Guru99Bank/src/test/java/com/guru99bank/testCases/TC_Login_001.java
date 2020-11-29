@@ -9,8 +9,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class TC_Login_001 extends Util {
 
     public static void main(String[] args) {
-    	
-    	System.out.println("Wot it pushed!");
 
         launchFirefox();
 
